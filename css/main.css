@@ -275,6 +275,8 @@ a:focus {
   -o-transition-duration: 0.8s;
   transition-duration: 0.8s;
 }
+/* End: Recommended Isotope styles */
+/* disable CSS transitions for containers with infinite scrolling*/
 .isotope {
   -webkit-transition-property: height, width;
   -moz-transition-property: height, width;
